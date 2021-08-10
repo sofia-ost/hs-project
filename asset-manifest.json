@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sofia-ost/hs-project/static/css/main.a5847c1f.chunk.css",
+    "main.js": "/sofia-ost/hs-project/static/js/main.2c0647be.chunk.js",
+    "main.js.map": "/sofia-ost/hs-project/static/js/main.2c0647be.chunk.js.map",
+    "runtime-main.js": "/sofia-ost/hs-project/static/js/runtime-main.f227554d.js",
+    "runtime-main.js.map": "/sofia-ost/hs-project/static/js/runtime-main.f227554d.js.map",
+    "static/js/2.ffd50d90.chunk.js": "/sofia-ost/hs-project/static/js/2.ffd50d90.chunk.js",
+    "static/js/2.ffd50d90.chunk.js.map": "/sofia-ost/hs-project/static/js/2.ffd50d90.chunk.js.map",
+    "index.html": "/sofia-ost/hs-project/index.html",
+    "static/css/main.a5847c1f.chunk.css.map": "/sofia-ost/hs-project/static/css/main.a5847c1f.chunk.css.map",
+    "static/js/2.ffd50d90.chunk.js.LICENSE.txt": "/sofia-ost/hs-project/static/js/2.ffd50d90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f227554d.js",
+    "static/js/2.ffd50d90.chunk.js",
+    "static/css/main.a5847c1f.chunk.css",
+    "static/js/main.2c0647be.chunk.js"
+  ]
+}
